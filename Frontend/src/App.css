@@ -1,0 +1,38 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+select, input[type="date"], input[type="time"] {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+ button {
+  background-color: blue;
+  border:1px solid red;
+}
+
+button:hover{
+  background-color: blue;
+ color: white;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 18px;
+}
